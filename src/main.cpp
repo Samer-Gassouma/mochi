@@ -141,7 +141,7 @@ void handleRoot() {
   html += ".section-header{border-bottom:2px solid rgba(255,51,51,0.4);padding-bottom:8px;margin-bottom:15px}";
   html += "</style></head><body><div class='container'>";
   html += "<h1>Mochi Control Panel</h1>";
-  html += "<p class='subtitle'>11 Smooth Animations - Full Frames!</p>";
+  html += "<p class='subtitle'>NEW Custom Animations Only! (6 Total)</p>";
   html += "<div class='status' id='status'>Current: Idle (Blinking)</div>";
   html += "<div class='controls'>";
   html += "<button class='btn btn-idle' onclick='setIdle()'>Return to Idle</button>";
